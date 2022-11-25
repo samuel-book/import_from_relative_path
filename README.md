@@ -2,4 +2,4 @@
 
 Demo to show how to import a module from a package in a different directory.
 
-In this demo, a Jupyter Notebook in the folder "Notebooks" needs to retrieve a module 'helper.py' from the folder utils, which sits in the main project folder.
+In this demo, a Jupyter Notebook, `test.ipynb` in the folder `notebooks` needs to retrieve a module `helper.py` from the folder `utils`, which sits in the main project folder.
